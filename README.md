@@ -41,3 +41,5 @@ The core focus of the UI design is ease of use and immersion. Key components of 
 
 
 Designing an intuitive UI for AR/VR applications is a multidisciplinary process involving user experience design, 3D modeling, human-computer interaction, and usability testing. The goal is to make the technology disappear into the background, allowing users to interact with digital content as naturally and fluidly as they would in the real world.
+
+OUTPUT : ![Image](https://github.com/user-attachments/assets/2a3c8cca-e430-4407-9693-d2e47db1d657)
